@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+google-genai
+pdfplumber
+pytesseract
+pdf2image
+pillow
+requests
